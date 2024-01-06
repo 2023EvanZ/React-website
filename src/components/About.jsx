@@ -51,7 +51,7 @@ const About = () => {
         where I got to climb glaciers and see a volcano eruption live. Before that, 
         I was soaking in the Sun on the Hawaiian coast. I look forward to seeing new
         sights on future vacations. If you want to see more updates about my life, 
-        follow my <a href="https://www.instagram.com/evanzhang05/?hl=en" target = "_blank">Instagram</a>!
+        follow my <a className="text-emerald-300" href="https://www.instagram.com/evanzhang05/?hl=en" target = "_blank">Instagram</a>!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
